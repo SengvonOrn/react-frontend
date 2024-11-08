@@ -12,7 +12,7 @@ const Home = () => {
               </div>
               <div className="md:w-1/2">
                 <h1 className="text-5xl font-semibold mb-4 text-neutral-700 md:w-3/4">
-                  Lessiion and insight{" "}
+                  Lessiion and insight
                   <span className="text-green-500 leading-snug">
                     from 8 years
                   </span>
@@ -30,7 +30,7 @@ const Home = () => {
               </div>
               <div className="md:w-1/2">
                 <h1 className="text-5xl font-semibold mb-4 text-neutral-700 md:w-3/4">
-                  Lessiion and insight{" "}
+                  Lessiion and insight
                   <span className="text-green-500 leading-snug">
                     from 8 years
                   </span>

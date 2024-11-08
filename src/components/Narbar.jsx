@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { Link } from "react-scroll";
 import { FaBars, FaXmark } from "react-icons/fa6";
 const icon = "../src/assets/image/Icon.png";
-
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [isSticky, setIsSticky] = useState(false);
@@ -92,7 +91,6 @@ const Navbar = () => {
             </button>
           </div>
         </div>
-
         <div
           className={`space-y-4 px-4 mt-16 py-7 bg-green  ${
             isOpen ? "block fixed top-0 left-0 right-0 " : "hidden"
